@@ -40,9 +40,9 @@ Caravel is designed to be reusable, with both a "management SoC" and a user proj
 
 * porb: Power-on reset bar (active-low).
 * Drives reset logic in:
-      * The RISCV core
-      * GPIOs and control blocks
-      * SPI flash interface
+  * The RISCV core
+  * GPIOs and control blocks
+  * SPI flash interface
 
 * User project wrapper
 
