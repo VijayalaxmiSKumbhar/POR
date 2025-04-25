@@ -22,6 +22,7 @@ These power inputs are monitored by the POR circuit, which will generate the app
 * `porb_l:` Another active low reset signal used for different parts of the low-voltage domain.
 
 These outputs are used to reset various blocks in the system, ensuring that the design initializes in a known state when power is applied.
+
 -------------------
 
 #### Further Reading / References
