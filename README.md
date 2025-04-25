@@ -17,9 +17,9 @@ These power inputs are monitored by the POR circuit, which will generate the app
 
 ------------------------------------------
 #### Outputs:
-* `porb_h:` Active low reset signal for the high-voltage domain (3.3V). When porb_h is low, it indicates the system is in a reset state.
-* `por_l:` Active low reset signal for the low-voltage domain (1.8V). Similar to porb_h, this signal is used to reset components in the 1.8V domain.
-* `porb_l:` Another active low reset signal used for different parts of the low-voltage domain.
+* `porb_h:`  High-voltage (3.3V domain) sense-inverted reset signal . When porb_h is low, it indicates the system is in a reset state.
+* `por_l:` Complementary low-voltage (1.8V domain) reset signal. Similar to porb_h, this signal is used to reset components in the 1.8V domain.
+* `porb_l:` Complementary low-voltage (1.8V domain) reset signal. Another active low reset signal used for different parts of the low-voltage domain.
 
 These outputs are used to reset various blocks in the system, ensuring that the design initializes in a known state when power is applied.
 
