@@ -28,6 +28,7 @@ These outputs are used to reset various blocks in the system, ensuring that the 
 #### Further Reading / References
 * https://github.com/efabless/caravel/
 * https://github.com/efabless/caravel/blob/main/verilog/rtl/__user_analog_project_wrapper.v
+* Simple POR code reference: https://github.com/efabless/caravel/blob/main/xschem/simple_por.spice
 * Sky130 PDK Docs: https://skywater-pdk.readthedocs.io
 * https://caravel-user-project-analog.readthedocs.io/en/latest/
 
