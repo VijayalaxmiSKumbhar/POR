@@ -9,7 +9,7 @@ The Power-On Reset (POR) in Caravel ensures that the design starts in a reset st
 
 #### Inputs:
 * `vdd3v3:` 3.3V power supply for the core.
-* `vdd1v:` 1.8V power supply for the core.
+* `vdd1v8:` 1.8V power supply for the core.
 * `vss3v3:` Ground for the 3.3V power domain.
 * `vss1v8:` Ground for the 1.8V power domain.
 
