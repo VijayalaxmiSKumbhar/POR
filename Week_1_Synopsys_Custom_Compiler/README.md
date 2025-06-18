@@ -1,7 +1,9 @@
 <details>
 <summary>Custom Compiler Overview </summary>
 <br> 
-![image](https://github.com/user-attachments/assets/b39273c8-00d7-408c-b8fe-727e10fb4f1d)
+
+  ![image](https://github.com/user-attachments/assets/099bcec6-5864-4529-9ed1-3ddbd1c52e89)
+
 
 * #### The Synopsys Custom Compiler design environment is a modern solution for full-custom analog, custom digital, and mixed-signal IC design.
 * #### Custom Compiler provides design entry, simulation management and analysis, and custom layout editing features. It delivers industry-leading productivity, performance, and ease-of-use while remaining easy to adopt for users of legacy tools.
